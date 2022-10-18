@@ -5,4 +5,4 @@ https://github.com/s-marley/FastLED-basics/blob/main/4.%20Waves%20and%20blur/bri
 
 Some of the code fork from there
 
-Demo: https://wokwi.com/projects/345477651398394451
+Demo: https://wokwi.com/projects/345836855031235155
